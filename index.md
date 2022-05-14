@@ -1,8 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/moomincoder/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can use the check out some of my projects, including a Twitch clip compilation script [twitch-ripper](https://github.com/moomincoder/twitch-ripper), and a script to check as file hash against the Virustotal database [virustotalHashChecker](https://github.com/moomincoder/virustotalHashChecker)
 
 ### Markdown
 
